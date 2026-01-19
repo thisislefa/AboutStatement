@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-[View Component](https://thisislefa.github.io/Griffin/)
+[View Component](https://lefajmofokeng.github.io/Griffin/)
 
 ## Technical Architecture
 
@@ -269,4 +269,5 @@ For implementation questions or customization requests:
 ---
 
 *Griffin provides a production-ready about section component that balances visual impact with semantic structure, making it suitable for integration into modern web projects.*
+
 
