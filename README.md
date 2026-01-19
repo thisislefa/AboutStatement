@@ -6,7 +6,6 @@
 
 <img width="1588" height="976" alt="lefajmofokeng github io_Griffin_" src="https://github.com/user-attachments/assets/a5387d44-70dc-492d-a928-2a49597ec6b1" />
 
-
 ## Live Demo
 
 [View Component](https://lefajmofokeng.github.io/Griffin/)
@@ -272,6 +271,7 @@ For implementation questions or customization requests:
 ---
 
 *Griffin provides a production-ready about section component that balances visual impact with semantic structure, making it suitable for integration into modern web projects.*
+
 
 
 
